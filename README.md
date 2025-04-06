@@ -28,7 +28,7 @@ ${inputs.wallpapers.all.GiftOfOrzhova}
 ![Kevin Hong - The Dragon Witch](walls/TheDragonWitch.jpg)
 
 [Johannes Voss](https://www.artofmtg.com/art/gift-of-orzhova/)
-![Johannes Voss - Gift of Orzhova](walls/GiftofOrzhova.jpg)
+![Johannes Voss - Gift of Orzhova](walls/GiftOfOrzhova.jpg)
 
 [Fangpeii](https://www.pixiv.net/en/artworks/85172077)
 ![Fangpeii - Cloud](walls/Cloud.jpg)
