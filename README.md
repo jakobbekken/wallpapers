@@ -25,10 +25,10 @@ ${inputs.wallpapers.all.GiftOfOrzhova}
 ## Sources
 
 [Kevin Hong](https://www.kevinhong.com/the-dragon-witch)
-![Kevin Hong - The Dragon Witch](walls/Kevin_Hong_The_Dragon_Witch.jpg)
+![Kevin Hong - The Dragon Witch](walls/TheDragonWitch.jpg)
 
 [Johannes Voss](https://www.artofmtg.com/art/gift-of-orzhova/)
-![Johannes Voss - Gift of Orzhova](walls/Johannes_Voss_Gift_of_Orzhova_MOD.jpg)
+![Johannes Voss - Gift of Orzhova](walls/GiftofOrzhova.jpg)
 
 [Fangpeii](https://www.pixiv.net/en/artworks/85172077)
-![Fangpeii - Cloud](walls/Fangpeii_Cloud.jpg)
+![Fangpeii - Cloud](walls/Cloud.jpg)
